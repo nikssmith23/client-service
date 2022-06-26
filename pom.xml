@@ -11,6 +11,7 @@
 	<groupId>com.erd</groupId>
 	<artifactId>client-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>client-service</name>
 	<description>webservices for client service in erd</description>
 	<properties>
